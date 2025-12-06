@@ -48,5 +48,5 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafreaks06" height="170"/>
+ <img src="https://nirzak-streak-stats.vercel.app/?user=Rafreaks06&theme=kacho_ga&hide_border=false" alt="GitHub Streak" /><br/>
 </p>
