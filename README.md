@@ -39,13 +39,13 @@
 
 ### GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafreaks06&show_icons=true&layout=compact" height="150"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafreaks06&show_icons=true" height="170"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafreaks06" height="170"/>
