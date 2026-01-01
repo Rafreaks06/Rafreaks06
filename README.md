@@ -17,7 +17,7 @@
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm constantly learning and improving my skills
 - 💬 Ask me about web development and backend technologies
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **[mr.rafreaks@gmail.com]**
 - ⚡ Fun fact: I love coding and problem-solving!
 
 ---
