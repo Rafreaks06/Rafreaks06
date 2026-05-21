@@ -46,8 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafreaks06&theme=radical" height="170" alt="Muhammad Raffi's GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafreaks06&theme=radical" height="170" alt="Muhammad Raffi's most used languages" />
+![GitHub Stats](https://ghstats.dev/api/card?username=rafreaks06&theme=radical&hide_border=true)
 
 <br />
 
