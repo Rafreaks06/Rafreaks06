@@ -51,7 +51,7 @@
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=rafreaks06&theme=radical&hide_border=true" alt="Muhammad Raffi's GitHub streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rafreaks06&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
