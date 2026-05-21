@@ -46,7 +46,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://ghstats.dev/api/card?username=rafreaks06&theme=radical&hide_border=true)
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=rafreaks06&show_icons=true&theme=radical&hide_border=true" height="170" alt="Muhammad Raffi's GitHub stats" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rafreaks06&layout=compact&theme=radical&hide_border=true" height="170" alt="Muhammad Raffi's most used languages" />
 
 <br />
 
